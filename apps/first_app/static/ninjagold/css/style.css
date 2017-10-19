@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+
+#wrapper{
+    width: 1000px;
+    margin: auto;
+}
+
+.title{
+    width: 1000px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: red;
+
+}
+
+
+.header{
+    height: 50px;
+    color: gold;
+}
+
+
+.location{
+    display:inline-block;
+    width: 200px;
+    height: 100px;
+    border-style: double;
+    text-align: center;
+}
+
+.footer{
+    width: 600px;
+}
+
+p{
+    margin: 10px 0px;
+}
